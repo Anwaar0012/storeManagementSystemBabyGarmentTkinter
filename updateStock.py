@@ -151,13 +151,6 @@ class UpdateDatabase:
         tkinter.messagebox.showinfo('Success','updated successfully')
 
 
-        
-
-# root = Tk()
-# b = UpdateDatabase(root)
-# root.geometry("1366x768+0+0")
-# root.title('Add to tha database')
-# root.mainloop()
 
 def main():
     root = Tk()
